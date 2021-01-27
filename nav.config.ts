@@ -3,7 +3,7 @@ import { IConfig } from './src/types'
 // 网站 LOGO 替换根目录下的 logo.png， 务必为 png 后缀
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/LunaHisi/nav',
 
   // 路由是否Hash模式, 如果是部署在github pages 务必设为 true
   hashMode: true,
@@ -12,7 +12,7 @@ const c: IConfig = {
   homeUrl: 'https://nav3.cn',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: 'HQQ导航 -HQQ导航网站',
 
   // 网站描述
   description: '发现导航 - 精选实用导航网站',
