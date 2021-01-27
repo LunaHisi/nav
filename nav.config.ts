@@ -9,7 +9,8 @@ const c: IConfig = {
   hashMode: true,
 
   // 您的网站地址，这对于SEO很重要
-  homeUrl: 'https://nav3.cn',
+ // homeUrl: 'https://nav3.cn',
+   homeUrl: 'https://hhqiang.cn',
 
   // 网站标题
   title: 'HQQ导航 -HQQ导航网站',
