@@ -16,7 +16,7 @@ const c: IConfig = {
   title: 'HQQ导航 -HQQ导航网站',
 
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: 'HQQ导航 - 精选实用导航网站',
 
   // 网站关键字
   keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
